@@ -2,6 +2,31 @@ body {
     margin-bottom: 60px;
 }
 
-body > .container {
+body > .container1 {
     padding: 60px 15px 0;
+}
+
+.container1 {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.portfolio-image {
+    height: 170px;
+}
+
+.row {
+    padding-bottom: 16px;
+}
+
+.tcenter {
+    text-align: center;
+}
+
+.name {
+    padding-bottom: 32px;
+}
+
+footer {
+    text-align: center;
 }
